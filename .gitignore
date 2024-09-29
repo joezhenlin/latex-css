@@ -1,3 +1,8 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Don't accidentally commit the build artifact to the repo
 style.min.css
 
